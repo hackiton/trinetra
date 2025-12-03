@@ -156,7 +156,7 @@ function Home({ onViewChange }) {
           </h1>
           
           <p className="text-lg md:text-xl text-slate-400 max-w-2xl mx-auto leading-relaxed">
-            A united campaign by <strong className="text-slate-200">Hackiton</strong> and <strong className="text-slate-200">unitedes</strong>. 
+            A united campaign by <strong className="text-slate-200">Hackiton</strong> and <strong className="text-slate-200">Akash</strong>. 
             We help girls who have been targeted by cybercriminals, phishers, and stalkers. 
             You are not alone. We are listening.
           </p>
